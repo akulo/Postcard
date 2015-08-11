@@ -13,6 +13,8 @@
 		E164400F1B79464100311BB1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E164400E1B79464100311BB1 /* Images.xcassets */; };
 		E16440121B79464100311BB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E16440101B79464100311BB1 /* LaunchScreen.xib */; };
 		E164401E1B79464100311BB1 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E164401D1B79464100311BB1 /* PostcardTests.swift */; };
+		E16440281B7951ED00311BB1 /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E16440271B7951ED00311BB1 /* Bo.jpg */; };
+		E164402A1B79521300311BB1 /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E16440291B79521300311BB1 /* JRT.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E16440171B79464100311BB1 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E164401C1B79464100311BB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E164401D1B79464100311BB1 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		E16440271B7951ED00311BB1 /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		E16440291B79521300311BB1 /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E16440051B79464100311BB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E16440291B79521300311BB1 /* JRT.jpg */,
+				E16440271B7951ED00311BB1 /* Bo.jpg */,
 				E16440061B79464100311BB1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				E164400D1B79464100311BB1 /* Main.storyboard in Resources */,
 				E16440121B79464100311BB1 /* LaunchScreen.xib in Resources */,
+				E164402A1B79521300311BB1 /* JRT.jpg in Resources */,
+				E16440281B7951ED00311BB1 /* Bo.jpg in Resources */,
 				E164400F1B79464100311BB1 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
